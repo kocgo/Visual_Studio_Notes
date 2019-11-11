@@ -8,6 +8,11 @@ Inside of it, add a new variable with the current bin path of your Visual Studio
 For example, "C:\Users\gokhankoc\AppData\Local\Programs\Microsoft VS Code\bin"
 ```
 
+_Now you can use VsCode in shell prompt (opens current directory in VsCode):_
+```
+code .
+```
+
 ### Indentation Tab Size
 ```
 Settings > Editor: Tab Size > 2
